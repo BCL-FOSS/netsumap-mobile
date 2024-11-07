@@ -1,0 +1,1 @@
+- 📱 self hosted netadmin mobile app (*currently in development)
